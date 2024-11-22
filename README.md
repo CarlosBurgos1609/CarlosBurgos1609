@@ -23,7 +23,7 @@ I am a systems engineer from CESMAG University, I have knowledge of React, CSS, 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosburgos1709&label=Profile%20views&color=0e75b6&style=flat" alt="carlosburgos1709" /> </p>
 -->
 
-<h2 align="left">Statistics:</h2>
+<h2 align="left">GitHub:</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosburgos1609&show_icons=true&locale=en&layout=compact" alt="carlosburgos1609" /></p> <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosburgos1609&" alt="carlosburgos1609" /></p>
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosburgos1709&show_icons=true&locale=en" alt="carlosburgos1709" /></p>
