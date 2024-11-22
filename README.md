@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/user-attachments/assets/47e082af-7034-455d-9f03-46737fbebd89)](https://carlosburgos1709.github.io/)
+[![MasterHead](https://github.com/user-attachments/assets/47e082af-6034-455d-9f03-46737fbebd89)](https://carlosburgos1709.github.io/)
 <div align="center"><h1>Hi my name is Carlos Burgos👋</h1></div>
 <h3 align="center">
 I am a systems engineer from CESMAG University, I have knowledge of React, CSS, sass, C#, Html, python, java script, C++, flutter, I like to make web pages in my free time.</h3>
@@ -24,7 +24,7 @@ I am a systems engineer from CESMAG University, I have knowledge of React, CSS, 
 -->
 
 <h2 align="left">Statistics:</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosburgos1709&show_icons=true&locale=en&layout=compact" alt="carlosburgos1709" /></p> <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosburgos1709&" alt="carlosburgos1709" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosburgos1609&show_icons=true&locale=en&layout=compact" alt="carlosburgos1609" /></p> <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosburgos1609&" alt="carlosburgos1609" /></p>
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosburgos1709&show_icons=true&locale=en" alt="carlosburgos1709" /></p>
 -->
