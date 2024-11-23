@@ -5,7 +5,7 @@ I am a systems engineer from CESMAG University, I have knowledge of React, CSS, 
 
 ---
 
-<h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Connect with me:</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/astro_cat.webp" width="50">Connect with me:</h2>
 <p align="center">
 <a href="https://fb.com/profile.php?id=61569174632410" target="_blank"><img align="center" target="_blank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="CarlosAlexanderBurgosj." height="50" width="60" /></a>
 <a href="https://open.spotify.com/user/yw3aqvvd0zb5rsjn8wz0kez0j" target="blank"><img align="center" target="_blank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="SOLRACB" height="50" width="60" /></a>
@@ -32,6 +32,7 @@ I am a systems engineer from CESMAG University, I have knowledge of React, CSS, 
 ---
 
 <h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> About Me </h2>
+<!--<img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>-->
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -111,11 +112,16 @@ I am a systems engineer from CESMAG University, I have knowledge of React, CSS, 
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=carlosburgos1609&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+ <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=carlosburgos1609&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img alt="most used languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosburgos1609&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
   
   </td>
 </tr>
 </table>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosburgos1709&show_icons=true&locale=en" alt="carlosburgos1709" /></p>
 -->
