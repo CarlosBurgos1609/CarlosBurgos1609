@@ -1,8 +1,8 @@
 <!--Header -->
 [![MasterHead](https://github.com/user-attachments/assets/47e082af-6034-455d-9f03-46737fbebd89)](https://carlosburgos1609.github.io/build)
 <div align="center"><h1>Hi my name is Carlos Burgos👋</h1></div>
-<h3 align="center">
-I am a systems engineer from CESMAG University, I have knowledge of React, CSS, sass, C#, Html, python, java script, C++, flutter, I like to make web pages in my free time.</h3>
+<!--h3 align="center">
+I am a systems engineer from CESMAG University, I have knowledge of React, CSS, sass, C#, Html, python, java script, C++, flutter, I like to make web pages in my free time.</h3>-->
 
 ---
 <!--connect with me -->
