@@ -1,10 +1,12 @@
+<!--Header -->
 [![MasterHead](https://github.com/user-attachments/assets/47e082af-6034-455d-9f03-46737fbebd89)](https://carlosburgos1609.github.io/build)
 <div align="center"><h1>Hi my name is Carlos Burgos👋</h1></div>
 <h3 align="center">
 I am a systems engineer from CESMAG University, I have knowledge of React, CSS, sass, C#, Html, python, java script, C++, flutter, I like to make web pages in my free time.</h3>
 
 ---
-
+<!--connect with me -->
+<!--
 <h2 align="center"><img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/astro_cat.webp" width="50">Connect with me:</h2>
 <p align="center">
 <a href="https://fb.com/profile.php?id=61569174632410" target="_blank"><img align="center" target="_blank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="CarlosAlexanderBurgosj." height="50" width="60" /></a>
@@ -16,17 +18,18 @@ I am a systems engineer from CESMAG University, I have knowledge of React, CSS, 
 <a href="https://twitter.com/andersonmr5302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@andermendoza" height="60" width="50" /></a>
 <a href="https://instagram.com/anderson_mend53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="60" width="50" /></a>
 </p>
- 
+-->
+<h2 align="center"><img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/astro_cat.webp" width="50">Connect with me:</h2>
 <p align="center">
-  <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
- <a href="https://www.facebook.com/trinnwin"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>
-	
+  <a href="https://carlosburgos1609.github.io/build/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="caburgos.0325@unicesmag.edu.co"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/CarlosBurgos1609"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="#"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/profile.php?id=61569174632410"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/carlitos_burgosj/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.youtube.com/@solracb/playlists"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+	<a href="https://open.spotify.com/user/yw3aqvvd0zb5rsjn8wz0kez0j"><img src="https://img.icons8.com/bubbles/50/000000/spotify.png" alt="Spotify"/></a>
+	<a href="#"><img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="Discord"/></a>
 </p>
 
 ---
