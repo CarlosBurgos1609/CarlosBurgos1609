@@ -55,7 +55,7 @@ I am a systems engineer from CESMAG University, I have knowledge of React, CSS, 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/yw3aqvvd0zb5rsjn8wz0kez0j)
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=blue_color=ffffff)](https://open.spotify.com/user/yw3aqvvd0zb5rsjn8wz0kez0j)
 <!--
 ## :headphones: Spotify Playing
 
