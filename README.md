@@ -8,7 +8,7 @@ I am a systems engineer from CESMAG University, I have knowledge of React, CSS, 
 <a href="https://fb.com/profile.php?id=61569174632410" target="_blank"><img align="center" target="_blank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="CarlosAlexanderBurgosj." height="50" width="80" /></a>
 <a href="https://open.spotify.com/user/yw3aqvvd0zb5rsjn8wz0kez0j" target="blank"><img align="center" target="_blank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="SOLRACB" height="50" width="80" /></a>
 <a href="https://instagram.com/carlitos_burgosj" target="_blank"><img align="center" target="_blank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carlitos_burgosj" height="50" width="80" /></a>
-<a href="https://www.youtube.com/@solracb" target="_blank"><img align="center" target="_blank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@solracb" height="50" width="80" /></a>
+<a href="https://www.youtube.com/@solracb" target="_blank"><img align="center" target="_blank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@solracb" height="50" width="80" /></a><a></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
