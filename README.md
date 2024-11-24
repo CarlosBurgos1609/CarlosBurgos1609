@@ -73,13 +73,14 @@ I am a systems engineer from CESMAG University, I have knowledge of React, CSS, 
 [![Salsa](https://img.shields.io/badge/Salsa-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7ARdbqV0W6SQSYyJ0pH3ZY)
 [![Merengue](https://img.shields.io/badge/Merengue-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/10nfX6VXflrOquAKmA1bMz)
 [![Rock en ingles](https://img.shields.io/badge/Rock%20En%20Ingles-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5P6n1BNwogBmLXZqIwlk3e) 
+[![Rock y poo 80 y 90](https://img.shields.io/badge/Rock%20and%20Pop%20Retro-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6KERsvpYzzhISMRnJz77xh)
+[![Pop](https://img.shields.io/badge/POP-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/73C5mk3LRQtxzZ2dTf22ic)
 [![Pop latino](https://img.shields.io/badge/POP%20Latino-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6F2QF1tMHv6U9B8QMn1pbR)
+[![Electrónica](https://img.shields.io/badge/Electrónica-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/55g6nZwjigkdi3jIeVXBo9)
 [![Pop en español](https://img.shields.io/badge/Pop%20En%20Español-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/40BbhGPEcklGp49QrSlFfZ)
 [![Trap Argentino](https://img.shields.io/badge/Trap%20Argentino-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4lRMQOJAUwlnPN0u6vltCa)
-[![Rock y poo 80 y 90](https://img.shields.io/badge/Rock%20and%20Pop%20Retro-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6KERsvpYzzhISMRnJz77xh)
-[![Electrónica](https://img.shields.io/badge/Electrónica-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/55g6nZwjigkdi3jIeVXBo9)
 [![Hip-Hop/Rap](https://img.shields.io/badge/Hip%20Hop%20/Rap-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7qOs3OWDkor8Wk3eBeXpHb)
-[![Pop](https://img.shields.io/badge/POP-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/73C5mk3LRQtxzZ2dTf22ic)
+
 
 
 <!--
