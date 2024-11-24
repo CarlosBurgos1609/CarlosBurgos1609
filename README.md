@@ -19,7 +19,7 @@ I am a systems engineer from CESMAG University, I have knowledge of React, CSS, 
 <a href="https://instagram.com/anderson_mend53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="60" width="50" /></a>
 </p>
 -->
-<h2 align="center"><img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/astro_cat.webp" width="50">Connect with me:</h2>
+<h2 align="center"><img src="https://github.com/user-attachments/assets/6145435b-0053-46ff-881d-6748a6d0d8b7" width="50">Connect with me:</h2>
 <p align="center">
   <a href="https://carlosburgos1609.github.io/build/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="caburgos.0325@unicesmag.edu.co"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
@@ -39,52 +39,38 @@ I am a systems engineer from CESMAG University, I have knowledge of React, CSS, 
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on  Soy Estudiante
+- 🔭 I’m currently studying
   
-- 🌱 I’m currently learning Git, Java y GitHub
+- 🌱 I’m currently learning sass, Java y React
   
 - 👯 I’m looking to collaborate on Proyectos
   
-- 💬 Ask me about Sql, Java, C#, JavaScript
+- 💬 Ask me about Sql, Java, C#, JavaScript...
   
-- ⚡ Fun fact: Me gustan los girasoles.
+- 🎧 Fun fact: like the music.
 
 ---
 
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify Playing 🎧
+<!--<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />-->
+
+<h2 align="center">:headphones: Spotify Playing <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></h2>
+
+[![rock-español](https://img.shields.io/badge/Rock%20En%20Español-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3GWu39s0U4TTdGv7MpzC5P) 
+[![Rock en ingles](https://img.shields.io/badge/Rock%20En%20Ingles-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5P6n1BNwogBmLXZqIwlk3e) 
+[![Pop latino](https://img.shields.io/badge/POP%20Latino-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6F2QF1tMHv6U9B8QMn1pbR)
+[![Pop en español](https://img.shields.io/badge/Pop%20En%20Español-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/40BbhGPEcklGp49QrSlFfZ)
+[![Merengue](https://img.shields.io/badge/Merengue-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/10nfX6VXflrOquAKmA1bMz)
+[![Trap Argentino](https://img.shields.io/badge/Trap%20Argentino-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4lRMQOJAUwlnPN0u6vltCa)
+[![Rock y poo 80 y 90](https://img.shields.io/badge/Rock%20and%20Pop%20Retro-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6KERsvpYzzhISMRnJz77xh)
+[![Electrónica](https://img.shields.io/badge/Electrónica-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/55g6nZwjigkdi3jIeVXBo9)
+[![Hip-Hop/Rap](https://img.shields.io/badge/Hip%20Hop%20/Rap-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7qOs3OWDkor8Wk3eBeXpHb)
+[![Pop](https://img.shields.io/badge/POP-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/73C5mk3LRQtxzZ2dTf22ic)
+[![Salsa](https://img.shields.io/badge/Salsa-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7ARdbqV0W6SQSYyJ0pH3ZY)
+[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify?&aling=center)](https://open.spotify.com/user/yw3aqvvd0zb5rsjn8wz0kez0j)
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=blue_color=ffffff)](https://open.spotify.com/user/yw3aqvvd0zb5rsjn8wz0kez0j)
-<!--
-## :headphones: Spotify Playing
 
-[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) [![KPOP Music](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q) [![PPOP Music](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58bZKfJFpUl2CwWET1QJ3X?si=259YV8_VRS-IKHsFZMmPTQ)
-
-[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
-
-
-<h1>
-  i really like music :headphones:
-</h1>
-
-<p align="center">
-  <a href="https://andyruwruw.vercel.app/api/now-playing?open">
-    <img src="https://andyruwruw.vercel.app/api/now-playing">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://andyruwruw.vercel.app/api/top-played">
-</p>
- 
-<p align="center">
-  
-  <i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a></i>
-</p>
-
-<p></p>
--->
 ---
 
 <h2 align="center"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Languages and Tools:</h2>
@@ -98,33 +84,34 @@ I am a systems engineer from CESMAG University, I have knowledge of React, CSS, 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosburgos1709&label=Profile%20views&color=0e75b6&style=flat" alt="carlosburgos1709" /> </p>
 -->
 <h2 align="center"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture>GitHub:</h2>
-<!---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosburgos1609&show_icons=true&locale=en&layout=compact" alt="carlosburgos1609" /></p> <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosburgos1609&" alt="carlosburgos1609" /></p>
--->
 <p align="center"> 
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=carlosburgos1609&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=carlosburgos1609&theme=dark&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosburgos1609&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosburgos1609&theme=dark&hide_border=false&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c" /> 
 </td>
 
 <td width="50%" align="center">
 
- <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=carlosburgos1609&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+ <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=carlosburgos1609&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&count_private=true&theme=algolia&bg_color=0,000000,130F40&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
   <img alt="most used languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosburgos1609&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
   
   </td>
 </tr>
 </table>
 
-<p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+
+<a href="https://github.com/vibrantfix#gh-dark-mode-only">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
+  </a>
 <!--
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats"  />
+</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosburgos1709&show_icons=true&locale=en" alt="carlosburgos1709" /></p>
 -->
 
