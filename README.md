@@ -70,6 +70,7 @@ I am a systems engineer from CESMAG University, I have knowledge of React, CSS, 
 <h2 align="center">:headphones: Spotify Playing <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></h2>
 
 [![rock-español](https://img.shields.io/badge/Rock%20En%20Español-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3GWu39s0U4TTdGv7MpzC5P) 
+[![Salsa](https://img.shields.io/badge/Salsa-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7ARdbqV0W6SQSYyJ0pH3ZY)
 [![Merengue](https://img.shields.io/badge/Merengue-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/10nfX6VXflrOquAKmA1bMz)
 [![Rock en ingles](https://img.shields.io/badge/Rock%20En%20Ingles-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5P6n1BNwogBmLXZqIwlk3e) 
 [![Pop latino](https://img.shields.io/badge/POP%20Latino-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6F2QF1tMHv6U9B8QMn1pbR)
@@ -79,7 +80,7 @@ I am a systems engineer from CESMAG University, I have knowledge of React, CSS, 
 [![Electrónica](https://img.shields.io/badge/Electrónica-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/55g6nZwjigkdi3jIeVXBo9)
 [![Hip-Hop/Rap](https://img.shields.io/badge/Hip%20Hop%20/Rap-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7qOs3OWDkor8Wk3eBeXpHb)
 [![Pop](https://img.shields.io/badge/POP-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/73C5mk3LRQtxzZ2dTf22ic)
-[![Salsa](https://img.shields.io/badge/Salsa-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7ARdbqV0W6SQSYyJ0pH3ZY)
+
 
 <!--
 [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify?&aling=center)](https://open.spotify.com/user/yw3aqvvd0zb5rsjn8wz0kez0j)
