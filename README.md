@@ -78,11 +78,11 @@ I am a systems engineer from CESMAG University, I have knowledge of React, CSS, 
 [![Pop latino](https://img.shields.io/badge/POP%20Latino-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6F2QF1tMHv6U9B8QMn1pbR)
 [![Electrónica](https://img.shields.io/badge/Electrónica-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/55g6nZwjigkdi3jIeVXBo9)
 [![Pop en español](https://img.shields.io/badge/Pop%20En%20Español-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/40BbhGPEcklGp49QrSlFfZ)
+[![Cumbia](https://img.shields.io/badge/Cumbia-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3wdr8eEILMkHJDXNu12Y2N)
 [![Trap Argentino](https://img.shields.io/badge/Trap%20Argentino-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4lRMQOJAUwlnPN0u6vltCa)
+[![Bachata](https://img.shields.io/badge/Bachata-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/12WRhlSnurKbWGD22hftSB)
 [![Hip-Hop/Rap](https://img.shields.io/badge/Hip%20Hop%20/Rap-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7qOs3OWDkor8Wk3eBeXpHb)
-
-
-
+[![Baladas](https://img.shields.io/badge/Baladas-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6ZDDxuQj8VQWAluDNjHp1U)
 <!--
 [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify?&aling=center)](https://open.spotify.com/user/yw3aqvvd0zb5rsjn8wz0kez0j)
 -->
