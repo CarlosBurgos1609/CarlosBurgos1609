@@ -19,7 +19,7 @@ I am a systems engineer from CESMAG University, I have knowledge of React, CSS, 
 <a href="https://instagram.com/anderson_mend53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="60" width="50" /></a>
 </p>
 -->
-<h2 align="center"><img src="https://github.com/user-attachments/assets/6145435b-0053-46ff-881d-6748a6d0d8b7" width="50">Connect with me:</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/astro_cat.webp" width="50">Connect with me:</h2>
 <p align="center">
   <a href="https://carlosburgos1609.github.io/build/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="caburgos.0325@unicesmag.edu.co"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
@@ -38,6 +38,7 @@ I am a systems engineer from CESMAG University, I have knowledge of React, CSS, 
 <!--<img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>-->
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 
 - 🔭 I’m currently studying
   
@@ -68,9 +69,13 @@ I am a systems engineer from CESMAG University, I have knowledge of React, CSS, 
 [![Hip-Hop/Rap](https://img.shields.io/badge/Hip%20Hop%20/Rap-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7qOs3OWDkor8Wk3eBeXpHb)
 [![Pop](https://img.shields.io/badge/POP-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/73C5mk3LRQtxzZ2dTf22ic)
 [![Salsa](https://img.shields.io/badge/Salsa-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7ARdbqV0W6SQSYyJ0pH3ZY)
+
+<!--
 [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify?&aling=center)](https://open.spotify.com/user/yw3aqvvd0zb5rsjn8wz0kez0j)
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=blue_color=ffffff)](https://open.spotify.com/user/yw3aqvvd0zb5rsjn8wz0kez0j)
+-->
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=blue)](https://open.spotify.com/user/yw3aqvvd0zb5rsjn8wz0kez0j)
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/yw3aqvvd0zb5rsjn8wz0kez0j)
+
 
 ---
 
