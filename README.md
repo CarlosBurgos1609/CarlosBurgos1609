@@ -59,7 +59,7 @@ I am a systems engineer from CESMAG University, I have knowledge of React, CSS, 
   
 - 💬 Ask me about Sql, Java, C#, JavaScript...
   
-- 🎧 Fun fact: like the music.
+- 🎧 Fun fact: like to music.
 
 ---
 
