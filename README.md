@@ -89,7 +89,6 @@ I am a systems engineer from CESMAG University, I have knowledge of React, CSS, 
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=blue)](https://open.spotify.com/user/yw3aqvvd0zb5rsjn8wz0kez0j)
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/yw3aqvvd0zb5rsjn8wz0kez0j)
 
-
 ---
 
 <h2 align="center"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Languages and Tools:</h2>
