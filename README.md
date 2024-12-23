@@ -1,7 +1,6 @@
 [![MasterHead](https://github.com/user-attachments/assets/47e082af-6034-455d-9f03-46737fbebd89)](https://carlosburgos1609.github.io/build)
 <div align="center"><h1>Hi my name is Carlos Burgos👋</h1></div>
 
-
 ---
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/astro_cat.webp" width="50">Connect with me:</h2>
