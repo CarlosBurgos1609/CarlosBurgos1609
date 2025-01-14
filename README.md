@@ -78,9 +78,6 @@
 <!--
 [![My Skills](https://skillicons.dev/icons?i=azure,react,flutter,python,java,javascript,arduino,cs,css,sass,dart,discord,django,git,gmail,html,linkedin,matlab,mysql,nodejs,php,postgres,postman,powershell,unity,visualstudio,vscode,windows,linux&perline=20)]("")
 -->
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosburgos1709&label=Profile%20views&color=0e75b6&style=flat" alt="carlosburgos1709" /> </p>
--->
 <h2 align="center"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture>GitHub:</h2>
 <p align="center"> 
   <!--- stats (start) -->
