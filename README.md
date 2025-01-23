@@ -95,6 +95,12 @@
   <img alt="most used languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosburgos1609&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
 </td>
 
+
+
+
+
+
+
 <td width="50%" align="center">
 
  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=carlosburgos1609&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&count_private=true&theme=algolia&bg_color=0,000000,130F40&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
