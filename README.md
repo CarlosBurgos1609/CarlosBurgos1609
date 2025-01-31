@@ -48,7 +48,6 @@
 - 🎧 Fun fact: like to music.
 
 
-
 ---
 
 <h2 align="center">:headphones: Spotify Playing <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></h2>
@@ -90,16 +89,10 @@
 <td width="50%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=carlosburgos1609&theme=dark&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c" />
-  <br></br>
+  
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosburgos1609&theme=dark&hide_border=false&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c" /> 
   <img alt="most used languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosburgos1609&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
 </td>
-
-
-
-
-
-
 
 <td width="50%" align="center">
 
