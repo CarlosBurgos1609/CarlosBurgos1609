@@ -23,8 +23,7 @@
   	<a href="#"><img src="https://img.icons8.com/bubbles/50/000000/reddit.png" alt="reddit"/></a>
    	<a href="#"><img src="https://img.icons8.com/bubbles/50/000000/skype.png" alt="skype"/></a>
     	<a href="#"><img src="https://img.icons8.com/bubbles/50/000000/twitch.png" alt="twitch"/></a>
- 
-	
+ 	
 </p>
 
 ---
