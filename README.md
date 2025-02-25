@@ -44,7 +44,6 @@
   
 - 🎧 Fun fact: like to music.
 
-
 ---
 
 <h2 align="center">:headphones: Spotify Playing <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></h2>
@@ -71,7 +70,6 @@
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/yw3aqvvd0zb5rsjn8wz0kez0j)
 
 -->
-
 
 ---
 
@@ -105,8 +103,6 @@
 </table>
 
 
-
-
 <a href="https://github.com/vibrantfix#gh-dark-mode-only">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
   </a>
@@ -120,7 +116,3 @@
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlosburgos1709" alt="carlosburgos1709" /></a> </p>
 -->
-
-
-
-
