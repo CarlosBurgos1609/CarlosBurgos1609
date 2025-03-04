@@ -63,6 +63,7 @@
 [![Hip-Hop/Rap](https://img.shields.io/badge/Hip%20Hop%20/Rap-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7qOs3OWDkor8Wk3eBeXpHb)
 [![Baladas](https://img.shields.io/badge/Baladas-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6ZDDxuQj8VQWAluDNjHp1U)
 
+
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=blue)](https://open.spotify.com/user/yw3aqvvd0zb5rsjn8wz0kez0j)
 <!--
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/yw3aqvvd0zb5rsjn8wz0kez0j)
@@ -114,3 +115,6 @@
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlosburgos1709" alt="carlosburgos1709" /></a> </p>
 -->
+
+
+
