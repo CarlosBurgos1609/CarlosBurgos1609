@@ -72,9 +72,6 @@
 
 -->
 
-
-
-
 ---
 
 <h2 align="center"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Languages and Tools:</h2>
