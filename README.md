@@ -111,8 +111,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosburgos1709&show_icons=true&locale=en" alt="carlosburgos1709" /></p>
 -->
 
-
-
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlosburgos1709" alt="carlosburgos1709" /></a> </p>
 -->
