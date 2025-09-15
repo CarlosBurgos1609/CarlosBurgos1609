@@ -49,7 +49,7 @@
 
 ---
 
-<h2 align="center">:headphones: Spotify Playing <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></h2>
+<h2 align="center">:headphones: My spotify playlists <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></h2>
 
 [![rock-español](https://img.shields.io/badge/Rock%20En%20Español-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3GWu39s0U4TTdGv7MpzC5P) 
 [![Salsa](https://img.shields.io/badge/Salsa-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7ARdbqV0W6SQSYyJ0pH3ZY)
