@@ -124,7 +124,7 @@ _***<h2 align="center"><img src="https://raw.githubusercontent.com/dev-akshat/ar
 
 ---
 
-<h2 align="center">:headphones: My spotify playlists :headphones: </h2>
+***<h2 align="center">:headphones: My spotify playlists :headphones: </h2>***
 
 >[!TIP]
 ><div align="left">
