@@ -124,9 +124,11 @@ _***<h2 align="center"><img src="https://raw.githubusercontent.com/dev-akshat/ar
 
 ---
 
-<h2 align="center">:headphones: My spotify playlists :headphones: <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></h2>
+<h2 align="center">:headphones: My spotify playlists :headphones: </h2>
 
 >[!TIP]
+><div align="left">
+>
 >[![rock-español](https://img.shields.io/badge/Rock%20En%20Español-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3GWu39s0U4TTdGv7MpzC5P) 
 >[![Salsa](https://img.shields.io/badge/Salsa-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7ARdbqV0W6SQSYyJ0pH3ZY)
 >[![Merengue](https://img.shields.io/badge/Merengue-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/10nfX6VXflrOquAKmA1bMz)
@@ -142,25 +144,31 @@ _***<h2 align="center"><img src="https://raw.githubusercontent.com/dev-akshat/ar
 >[![Hip-Hop/Rap](https://img.shields.io/badge/Hip%20Hop%20/Rap-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7qOs3OWDkor8Wk3eBeXpHb)
 >[![Baladas](https://img.shields.io/badge/Baladas-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6ZDDxuQj8VQWAluDNjHp1U)
 >
-><div align="center">
->	
->[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=blue)](https://open.spotify.com/user/yw3aqvvd0zb5rsjn8wz0kez0j)
->
 ></div>
-	
+><picture>
+>  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosBurgos1609/CarlosBurgos1609/output/pacman-contribution-graph-dark.svg">
+>  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlosBurgos1609/CarlosBurgos1609/output/pacman-contribution-graph.svg">
+>  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CarlosBurgos1609/CarlosBurgos1609/output/pacman-contribution-graph.svg">
+></picture>
+>
+><img align="left" alt="GIF" height="400px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+>
+><div align="right">
+>  <a href="https://open.spotify.com/user/yw3aqvvd0zb5rsjn8wz0kez0j">
+>    <img src="https://spotify-recently-played-readme.vercel.app/api?user=yw3aqvvd0zb5rsjn8wz0kez0j&count=10" alt="Spotify recently played"  />
+>  </a>
+></div>
+
+<a href="https://github.com/vibrantfix#gh-dark-mode-only">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "center"/>
+</a>
+  
 <!--
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/yw3aqvvd0zb5rsjn8wz0kez0j)
 
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/yw3aqvvd0zb5rsjn8wz0kez0j)
 
--->
-
-
-<a href="https://github.com/vibrantfix#gh-dark-mode-only">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "center"/>
-  </a>
-
-  
+-->  
 <!--
 [![My Skills](https://skillicons.dev/icons?i=azure,react,flutter,python,java,javascript,arduino,cs,css,sass,dart,discord,django,git,gmail,html,linkedin,matlab,mysql,nodejs,php,postgres,postman,powershell,unity,visualstudio,vscode,windows,linux&perline=20)]("")
 -->
