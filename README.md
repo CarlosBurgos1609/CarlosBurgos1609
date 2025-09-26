@@ -158,7 +158,7 @@ _***<h2 align="center"><img src="https://raw.githubusercontent.com/dev-akshat/ar
 >    <td>
 >      <img width="300" align="center" alt="GIF" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 >	
->[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=blue)](https://open.spotify.com/user/yw3aqvvd0zb5rsjn8wz0kez0j)
+>[![Spotify](https://novatorem-rho-beryl.vercel.app/api/spotify)](https://open.spotify.com/user/yw3aqvvd0zb5rsjn8wz0kez0j)
 >
 >    </td>
 >    <td>
