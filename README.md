@@ -151,7 +151,7 @@ _***<h2 align="center"><img src="https://raw.githubusercontent.com/dev-akshat/ar
 >  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CarlosBurgos1609/CarlosBurgos1609/output/pacman-contribution-graph.svg">
 ></picture>
 >
-><img align="left" alt="GIF" height="400px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+><img align="left" alt="GIF" height="300px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 >
 ><div align="right">
 >  <a href="https://open.spotify.com/user/yw3aqvvd0zb5rsjn8wz0kez0j">
