@@ -148,7 +148,7 @@ _***<h2 align="center"><img src="https://raw.githubusercontent.com/dev-akshat/ar
 >
 ><div align="center">
 >	
->[![Spotify](https://novatorem-sage-one.vercel.app/api/spotify/?background_color=fff&border_color=bafaba&theme=dracula&locale=en&hide_border=false&order=30)](https://open.spotify.com/user/yw3aqvvd0zb5rsjn8wz0kez0j)
+>[![Spotify](https://novatorem-sage-one.vercel.app/api/spotify)](https://open.spotify.com/user/yw3aqvvd0zb5rsjn8wz0kez0j)
 >
 >
 ></div>
