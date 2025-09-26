@@ -151,13 +151,27 @@ _***<h2 align="center"><img src="https://raw.githubusercontent.com/dev-akshat/ar
 >  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CarlosBurgos1609/CarlosBurgos1609/output/pacman-contribution-graph.svg">
 ></picture>
 >
-><img align="left" alt="GIF" height="300px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+><div align="center" width="100%" rounded="5">
 >
-><div align="right">
->  <a href="https://open.spotify.com/user/yw3aqvvd0zb5rsjn8wz0kez0j">
->    <img src="https://spotify-recently-played-readme.vercel.app/api?user=yw3aqvvd0zb5rsjn8wz0kez0j&count=10" alt="Spotify recently played"  />
->  </a>
+><table>
+>  <tr>
+>    <td>
+>      <img width="300" align="center" alt="GIF" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+>	
+>[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=blue)](https://open.spotify.com/user/yw3aqvvd0zb5rsjn8wz0kez0j)
+>
+>    </td>
+>    <td>
+>      <a href="https://open.spotify.com/user/yw3aqvvd0zb5rsjn8wz0kez0j">
+>        <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=yw3aqvvd0zb5rsjn8wz0kez0j&count=6" alt="Spotify recently played" />
+>      </a>
+>    </td>
+>  </tr>
+></table>
+>
 ></div>
+>
+
 
 <a href="https://github.com/vibrantfix#gh-dark-mode-only">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "center"/>
